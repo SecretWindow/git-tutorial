@@ -1,7 +1,12 @@
 # Git 教程
+
 作者
 
 [*廖雪峰*](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+电子书制作
+
+[段立伟](https://github.com/SecretWindow)
 
 ![Git icon](http://www.liaoxuefeng.com/files/attachments/0013848605496402772ffdb6ab448deb7eef7baa124171b000/0)
 
@@ -1992,7 +1997,25 @@ Git就会创建一个裸仓库，裸仓库没有工作区，因为服务器上�
 
 ## <a name=期末总结></a>期末总结
 
+终于到了期末总结的时刻了！
 
+经过几天的学习，相信你对Git已经初步掌握。一开始，可能觉得Git上手比较困难，尤其是已经熟悉SVN的童鞋，没关系，多操练几次，就会越用越顺手。
+
+Git虽然极其强大，命令繁多，但常用的就那么十来个，掌握好这十几个常用命令，你已经可以得心应手地使用Git了。
+
+友情附赠国外网友制作的`Git Cheat Sheet`，建议打印出来备用：
+
+[Git Cheat Sheet](https://pan.baidu.com/s/1kU5OCOB#path=%252Fpub%252Fgit)
+
+现在告诉你Git的官方网站：<http://git-scm.com>，英文自我感觉不错的童鞋，可以经常去官网看看。什么，打不开网站？相信我，我给出的绝对是官网地址，而且，Git官网决没有那么容易宕机，可能是你的人品问题，赶紧面壁思过，好好想想原因。
+
+如果你学了Git后，工作效率大增，有更多的空闲时间健身看电影，那我的教学目标就达到了。
+
+谢谢观看！
 
 ## <a name=关于作者></a>关于作者
+廖雪峰，十年软件开发经验，业余产品经理，精通Java/Python/Ruby/Visual Basic/Objective C等，对开源框架有深入研究，著有《Spring 2.0核心技术与最佳实践》一书，多个业余开源项目托管在[GitHub](https://github.com/michaelliao)。
 
+[微博](http://weibo.com/liaoxuefeng/)
+
+[廖雪峰的官方网站](http://www.liaoxuefeng.com/)
